@@ -1,0 +1,126 @@
+#gif {
+  width: 100px;
+  position: relative;
+  top: 70px;
+  left: 880px;
+}
+
+h1 {
+  color: black;
+  font-size: 30px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  margin-left: 205px;
+}
+
+#header {
+  position: relative;
+  left: 200px;
+  border: 9px solid rgb(255, 255, 255);
+}
+
+h2 {
+  color: black;
+  font: size 1px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  margin-left: 205px;
+}
+
+#acerca {
+  color: black;
+  font-size: 25px;
+  font-family: sans-serif;
+  margin-left: 205px;
+  margin-right: 205px;
+  margin-bottom: 0.2px;
+}
+#articulo {
+  background-color: rgb(240, 240, 240);
+}
+
+div > h3 {
+  color: black;
+  font-size: 15pt;
+  font-family: monospace;
+  margin-left: 205px;
+  margin-right: 205px;
+  margin-bottom: 0.2px;
+}
+
+div > img {
+  position: relative;
+  width: 665px;
+  height: 499px;
+  left: 200px;
+  border: 9px solid rgb(255, 255, 255);
+}
+
+div > p {
+  color: black;
+  font-size: 14px;
+  font-family: monospace;
+  margin-left: 205px;
+  margin-right: 300px;
+  margin-bottom: 0.2px;
+}
+
+div > a {
+  color: black;
+  font-size: 10px;
+  font-family: sans-serif;
+  margin-left: 205px;
+  margin-right: 205px;
+  margin-bottom: 0.2px;
+}
+
+h4 {
+  color: black;
+  font-size: 15pt;
+  font-family: monospace;
+  margin-left: 205px;
+  margin-right: 205px;
+  margin-bottom: 0.2px;
+}
+
+#imagen2 {
+  position: relative;
+  width: 665px;
+  height: 499px;
+  left: 200px;
+  border: 9px solid rgb(255, 255, 255);
+}
+
+#parrafo2 {
+  color: black;
+  font-size: 14px;
+  font-family: monospace;
+  margin-left: 205px;
+  margin-right: 300px;
+  margin-bottom: 0.2px;
+}
+
+#link2 {
+  color: black;
+  font-size: 10px;
+  font-family: sans-serif;
+  margin-left: 205px;
+  margin-right: 205px;
+  margin-bottom: 0.2px;
+}
+
+#footer {
+  background-color: gray;
+  position: absolute;
+  width: 100%;
+  height: 50px;
+}
+
+#texto {
+  color: white;
+  font-family: sans-serif;
+  font-size: 12px;
+  text-align: center;
+  text-decoration: underline;
+  margin-top: 20px;
+}
